@@ -28,7 +28,8 @@ void main() {
     enfant.direBonjour();
 
   
-  
+  ClasseEnfant enfant1 = new ClasseEnfant();
+  enfant1.direBonjourEtAuRevoir();
 }
 
 class Point {
